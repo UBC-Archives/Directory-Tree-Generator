@@ -29,7 +29,7 @@ Python CMD-Style Directory Tree Generator
 
 - Install Python: Ensure Python 3.x is installed on your system. You can download Python from [here](https://www.python.org/downloads).
 - Download the Script: Download the Directory Inventory Generator script from [this link](https://github.com/UBC-Archives/Directory-Tree-Generator/blob/main/UBC-RMO_DTG.py).
-- Once downloaded, double-click on the downloaded UBC-RMO_Renamer.py file to run the program.
+- Once downloaded, double-click on the downloaded UBC-RMO_DTG.py file to run the program.
 
 **Disclaimer:**
 
